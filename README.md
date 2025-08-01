@@ -1,6 +1,7 @@
 ## Hi there, I am Bhumika Kundra.👋
 Undergrad | Software developer passionate about building impactful and user-centric applications.  
-<img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
+
 
 - 🔭 I’m currently working on Syncsketch- Collaborative Whiteboard.
 - 🌱 I’m currently exploring Backend Development. 
