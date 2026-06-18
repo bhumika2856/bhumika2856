@@ -3,9 +3,8 @@ Undergrad | Software developer passionate about building impactful and user-cent
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
 
 
-- 🔭 I’m currently working on Syncsketch- Collaborative Whiteboard.
-- 🌱 I’m currently exploring Backend Development. 
-- 💬 Ask me about my favourite movies and good animes.
+- 🌱 I’m currently exploring Backend Development and AI Integrated Systems. 
+
 
 How to reach me:
   ---
