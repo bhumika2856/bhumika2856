@@ -52,6 +52,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MY_SQL-8B7E9F?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MONGO_DB-8B7E9F?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-8B7E9F?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 <p align="center">
@@ -68,8 +69,24 @@
   <img src="https://img.shields.io/badge/VS_CODE-8B7E9F?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika2856&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
+
+<h2 align="center">GitHub Analytics</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=bhumika2856&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=bhumika2856&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" />
+    </td>
+  </tr>
+</table>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=bhumika2856&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Nurmuhammet%20Altybaev's%20Contribution%20Graph"
+  alt="Activity Graph"
+  width="100%"
+/>
 
