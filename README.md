@@ -1,45 +1,75 @@
-## Hi there, I am Bhumika Kundra.👋
-Undergrad | Software developer passionate about building impactful and user-centric applications.  
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
+<p align="center">
+  <img src="banner.gif" alt="Banner" width="600" height="250">
+</p>
 
+<h2 align="center">Connect with me</h2>
 
-- 🌱 I’m currently exploring Backend Development and AI Integrated Systems. 
+<p align="center">
+<a href="https://www.linkedin.com/in/bhumika-kundra-05667724a/">
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin">
+</a>
 
+<a href="https://github.com/bhumika2856">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
 
-How to reach me:
-  ---
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumikakundra28@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/bhumika-kundra-05667724a/))
+<a href="mailto:bhumikakundra28@gmail.com">
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail">
+</a>
+</p>
 
+<h2 align="center">About me</h2>
+<p align="center">Hello I'm Bhumika Kundra - a Software Developer focused on building scalable, secure, and high-performance applications.
 
-Tech Stack:
----
-### 🛠 Tech Stack
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" title="Android Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" title="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
 </p>
 
 
-<!--
-**bhumika2856/bhumika2856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center">Technologies</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-8B7E9F?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-8B7E9F?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-8B7E9F?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-8B7E9F?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-8B7E9F?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SPRING_BOOT-8B7E9F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPRING_AI-8B7E9F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE.JS-8B7E9F?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPRESS.JS-8B7E9F?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-8B7E9F?style=flat-square&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REACT-8B7E9F?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/NEXT.JS-8B7E9F?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-8B7E9F?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-8B7E9F?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MY_SQL-8B7E9F?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MONGO_DB-8B7E9F?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OPENAI_API-8B7E9F?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-8B7E9F?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-8B7E9F?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-8B7E9F?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTMAN-8B7E9F?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-8B7E9F?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINUX-8B7E9F?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_CODE-8B7E9F?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika2856&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
