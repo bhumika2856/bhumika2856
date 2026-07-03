@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/SQL-8B7E9F?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="center" >
   <img src="https://img.shields.io/badge/SPRING_BOOT-8B7E9F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/SPRING_AI-8B7E9F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/NODE.JS-8B7E9F?style=flat-square&logo=nodedotjs&logoColor=white" />
