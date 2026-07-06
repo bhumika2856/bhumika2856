@@ -79,7 +79,7 @@
       <img src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=bhumika2856&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=bhumika2856&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" />
+      <img height="200em" src="https://streak-stats.demolab.com?user=bhumika2856&theme=dracula&bg_color=0d0b1a&color=8B7E9F&hide_border=true" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
