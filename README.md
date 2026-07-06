@@ -85,7 +85,7 @@
 </table>
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=bhumika2856&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Nurmuhammet%20Altybaev's%20Contribution%20Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=bhumika2856&bg_color=000000&color=ffffff&line=8B7E9F&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph"
   alt="Activity Graph"
   width="100%"
 />
