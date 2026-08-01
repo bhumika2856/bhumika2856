@@ -78,7 +78,9 @@
     <td>
       <img src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=bhumika2856&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" />
     </td>
-    
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumika2856&theme=tokyonight-duo&hide_border=true" />
+    </td>
   </tr>
 </table>
 
